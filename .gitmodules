@@ -1,0 +1,3 @@
+[submodule "corruptGuards/lib/forge-std"]
+	path = corruptGuards/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
